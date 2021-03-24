@@ -10,6 +10,6 @@
 |3|19521820|Đặng Xuân Mai|
 
 - **Tuần 3** 
-    -  [Tảo biển](https://github.com/nguyenthily1605/CS112.L23.KHCL.N13/blob/main/Bu%E1%BB%95i%203-T%E1%BA%A3o%20bi%E1%BB%83n.ipynb)
+    - [x] ** [Tảo biển](https://github.com/nguyenthily1605/CS112.L23.KHCL.N13/blob/main/week3-taobienn.ipynb)**
   
 
