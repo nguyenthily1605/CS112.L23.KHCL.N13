@@ -1,8 +1,7 @@
 # CS112.L23.KHCL.N13
 # Giảng viên
-* Tên môn học: Máy Học (Machine Learning)
-* Mã lớp: CS114.L22.KHCL
-* Năm học: HK2 (2020-2021)
+* Nguyễn Thị Thanh Thương
+* Nguyễn Thanh Sơn
 # Nhóm 13
 | STT |MSSV| HỌ VÀ TÊN|
 |:---:|---|   ---|
