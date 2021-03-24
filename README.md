@@ -1,4 +1,7 @@
 # CS112.L23.KHCL.N13
+###Giangr viên:
+*Nguyễn Thanh Sơn
+*Nguyễn Thị Thanh Thương
 <h1>Thành viên nhóm 13</h1>
 
 | STT |MSSV| HỌ VÀ TÊN|
