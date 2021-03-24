@@ -2,7 +2,7 @@
 <h1>Giảng viên</h1/
 <p>Nguyễn Thị Thanh Thương</p>
 <p>Nguyễn Thanh Sơn</p>
----
+
 <h1>Thành viên nhóm 13</h1>
 
 | STT |MSSV| HỌ VÀ TÊN|
