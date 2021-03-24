@@ -1,7 +1,7 @@
 # CS112.L23.KHCL.N13
 ### Giảng viên
 -**Nguyễn Thị Thanh Thương**
--**Nguyễn Thanh Sơn
+-**Nguyễn Thanh Sơn**
 
 <h1>Thành viên nhóm 13</h1>
 
