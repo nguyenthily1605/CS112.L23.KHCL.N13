@@ -9,8 +9,14 @@
 |2|19521818|Nguyễn Thị Ly|
 |3|19521820|Đặng Xuân Mai|
 
-- **Tuần 3** 
+- **Week 3** 
     - [x]  [Tảo biển](https://github.com/nguyenthily1605/CS112.L23.KHCL.N13/blob/main/week3-taobienn.ipynb)
     - [x]  [BOT](https://github.com/nguyenthily1605/CS112.L23.KHCL.N13/blob/main/week3-BOT.ipynb)
+- **Week 5** 
+    - [x]  [H-index]
+    - [x]  [Khoa so]
+- **Week 7** 
+    - [x]  [Đổi mới]
+    - [x]  [Số nguyên mới]
   
 
