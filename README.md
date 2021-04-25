@@ -16,7 +16,7 @@
     - [x]  [H-index]
     - [x]  [Khoa so]
 - **Week 7** 
-    - [x]  [Đổi mới]
+    - [x]  [Đổi mới](https://colab.research.google.com/drive/1PxqDp6aF3PV2APCDVbPrbi-He-mkog2b)
     - [x]  [Số nguyên mới](https://colab.research.google.com/drive/1esPF4UGkcxG803qODpfRoshyTyKZSY-M)
   
 
