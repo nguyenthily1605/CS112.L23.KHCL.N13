@@ -13,7 +13,7 @@
     - [x]  [Tảo biển](https://github.com/nguyenthily1605/CS112.L23.KHCL.N13/blob/main/week3-taobienn.ipynb)
     - [x]  [BOT](https://github.com/nguyenthily1605/CS112.L23.KHCL.N13/blob/main/week3-BOT.ipynb)
 - **Week 5** 
-    - [x]  [H-index]
+    - [x]  [H-index](https://colab.research.google.com/drive/18F6zd5KgffMsZdYSOoYOuOrd3K8gKw1n?authuser=1)
     - [x]  [Khoa so]
 - **Week 7** 
     - [x]  [Đổi mới](https://colab.research.google.com/drive/1PxqDp6aF3PV2APCDVbPrbi-He-mkog2b)
