@@ -20,5 +20,7 @@
     - [x]  [Số nguyên mới](https://colab.research.google.com/drive/1esPF4UGkcxG803qODpfRoshyTyKZSY-M)
 - **Week**
     - [x]  [Phân số](https://colab.research.google.com/drive/10NeK1Ioo9A2PNN4_6ejaQdl1qj-XyTQa?authuser=1)
+- **Presentations**
+    - [x]  [Code](https://colab.research.google.com/drive/1MkT8hqGTgLS-s2AXP6i0f-NSnzgdtXEh?usp=sharing)
   
 
