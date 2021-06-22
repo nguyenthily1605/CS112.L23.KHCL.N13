@@ -22,5 +22,6 @@
     - [x]  [Phân số](https://colab.research.google.com/drive/10NeK1Ioo9A2PNN4_6ejaQdl1qj-XyTQa?authuser=1)
 - **Presentations**
     - [x]  [Code demo](https://colab.research.google.com/drive/1MkT8hqGTgLS-s2AXP6i0f-NSnzgdtXEh?usp=sharing)
+    - [x]  [Presentation Slides](https://github.com/nguyenthily1605/CS112.L23.KHCL.N13/blob/main/CS112_Nh%C3%B3m%2013_Presentations.pdf)
   
 
