@@ -23,5 +23,7 @@
 - **Presentations**
     - [x]  [Code demo](https://colab.research.google.com/drive/1MkT8hqGTgLS-s2AXP6i0f-NSnzgdtXEh?usp=sharing)
     - [x]  [Presentation Slides](https://github.com/nguyenthily1605/CS112.L23.KHCL.N13/blob/main/CS112_Nh%C3%B3m%2013_Presentations.pdf)
+    - [x]  [Bien ban thao luan](https://github.com/nguyenthily1605/CS112.L23.KHCL.N13/blob/main/Bi%C3%AAn%20b%E1%BA%A3n%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20-Nh%C3%B3m%2013-CS112.L23.KHCL.pdf)
+    - [x] [Bai bao cao](https://github.com/nguyenthily1605/CS112.L23.KHCL.N13/blob/main/B%C3%A0i%20b%C3%A1o%20c%C3%A1o_%20Nhom13_CS112.L23.KHCL.pdf) 
   
 
